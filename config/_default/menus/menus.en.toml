@@ -16,11 +16,6 @@
   weight = 30
 
 [[main]]
-    name = "Guidelines"
-    url = "/docs/guidelines/"
-    weight = 30
-
-[[main]]
   name = "Docs"
   url = "/docs/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"

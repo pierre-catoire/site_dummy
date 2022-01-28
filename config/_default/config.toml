@@ -10,8 +10,8 @@ paginate = 7
 rssLimit = 10
 
 # Multilingual
-defaultContentLanguage = "fr"
-disableLanguages = ["de", "nl", "en"]
+defaultContentLanguage = "en"
+disableLanguages = ["fr"]
 # defaultContentLanguageInSubdir = true
 
 # add redirects/headers
